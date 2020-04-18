@@ -1,0 +1,12 @@
+{
+  "BusUtilsClass": "com.blankj.utilcode.util.BusUtils",
+  "rightBus": {
+    "ADD_SERVER_INFO": [
+      "{ desc: us.syh.jkcp.MainActivity#onHandlerADDServerInfo(java.lang.String text), threadMode: MAIN }"
+    ],
+    "ADD_CLIENT_INFO": [
+      "{ desc: us.syh.jkcp.MainActivity#onHandlerADDClientInfo(java.lang.String text), threadMode: MAIN }"
+    ]
+  },
+  "wrongBus": {}
+}
